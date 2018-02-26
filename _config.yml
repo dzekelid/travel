@@ -1,10 +1,10 @@
 title: Streamdata Gallery
-url: template.streamdata.gallery
-tag: Template
+url: travel.streamdata.gallery
+tag: Travel
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: template
+github_repo: travel
 github_branch: master
 collections:
   listings:
