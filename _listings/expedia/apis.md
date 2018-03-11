@@ -32,7 +32,7 @@ apis:
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/travel/master/_listings/expedia/getpackages-v1-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/travel/master/_listings/expedia/api-packages-hoteloffers-get.md
 x-common:
 - type: x-base
   url: http://api.ean.com
