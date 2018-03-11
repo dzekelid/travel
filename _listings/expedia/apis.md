@@ -32,7 +32,7 @@ apis:
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/travel/master/_listings/expedia/m-api-cars-trip-cancel-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/travel/master/_listings/expedia/lx-api-search-get.md
 x-common:
 - type: x-base
   url: http://api.ean.com
