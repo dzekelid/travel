@@ -28,7 +28,7 @@ apis:
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/travel/master/_listings/amadeus/travel-intelligence-top-searches-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/travel/master/_listings/amadeus/travel-record-record-locator-get.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/amadeus
