@@ -49,6 +49,7 @@ paths:
       - airports
       - airplanes
       - trips
+      - airlines
 definitions:
   lxTickets:
     properties:
