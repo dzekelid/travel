@@ -40,6 +40,7 @@ paths:
       - airports
       - airplanes
       - coupons
+      - airlines
 definitions:
   lxTickets:
     properties:
