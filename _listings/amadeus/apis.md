@@ -27,7 +27,7 @@ apis:
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/amadeus/travel-intelligence-flight-traffic-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/amadeus/travel-intelligence-top-destinations-get.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/amadeus
