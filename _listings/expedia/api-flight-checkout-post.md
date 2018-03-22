@@ -249,6 +249,7 @@ paths:
       - travel
       - airports
       - airplanes
+      - airlines
 definitions:
   lxTickets:
     properties:
