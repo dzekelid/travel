@@ -41,6 +41,7 @@ paths:
       - airports
       - airplanes
       - images
+      - airlines
 definitions:
   lxTickets:
     properties:
