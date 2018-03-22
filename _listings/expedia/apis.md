@@ -19,9 +19,9 @@ tags:
 - Hotels
 - Flights
 - Booking
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/travel/master/_listings/expedia/apis.yaml
+created: "2018-03-22"
+modified: "2018-03-22"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Expedia
@@ -32,7 +32,7 @@ apis:
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/travel/master/_listings/expedia/m-api-hotel-search-v3-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-flight-search-get.md
 x-common:
 - type: x-base
   url: http://api.ean.com
