@@ -32,7 +32,7 @@ apis:
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-trip-calculatepoints-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/getpackages-v1-get.md
 x-common:
 - type: x-base
   url: http://api.ean.com
