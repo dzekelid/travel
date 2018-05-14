@@ -33,19 +33,18 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-hotel-search-v3-get.md
-- name: Expedia Points Conversion
-  description: |-
-    Converts from a given currency amount to the equivalent in rewards points.
-    [Note: Works only if the User is signed-in and is the owner of the trip.]
+- name: Expedia Get Packages
+  description: Gets packages and supports changed flights and hotels for flexible
+    shopping.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
   baseURL: https://apim.expedia.com/x/
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-trip-calculatepoints-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/getpackages-v1-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-trip-calculatepoints-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/getpackages-v1-get-postman.md
 x-common:
 - type: x-base
   url: http://api.ean.com
