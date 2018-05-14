@@ -44,17 +44,17 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-users-userid-trips-get.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-users-userid-trips-get-postman.md
-- name: Expedia Cancel Trip
-  description: car Trip Cancellation
+- name: Expedia Search
+  description: LX Shop Search
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
   baseURL: https://apim.expedia.com/x/
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-cars-trip-cancel-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/lx-api-search-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-cars-trip-cancel-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/lx-api-search-get-postman.md
 x-common:
 - type: x-base
   url: http://api.ean.com
