@@ -33,17 +33,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-hotel-search-v3-get.md
-- name: Expedia Create A Trip
-  description: Mobile API Packages Create Trip operation
+- name: Expedia Checkout
+  description: Mobile API Packages Checkout
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
   baseURL: https://apim.expedia.com/x/
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-packages-createtrip-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-packages-checkout-post.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-packages-createtrip-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-packages-checkout-post-postman.md
 x-common:
 - type: x-base
   url: http://api.ean.com
