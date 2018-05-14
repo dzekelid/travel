@@ -42,9 +42,9 @@ apis:
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-hotel-trip-cancelenquiry-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-hotel-trip-v2-cancelenquiry-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-hotel-trip-cancelenquiry-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-hotel-trip-v2-cancelenquiry-get-postman.md
 x-common:
 - type: x-base
   url: http://api.ean.com
