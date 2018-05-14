@@ -33,18 +33,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-hotel-search-v3-get.md
-- name: Expedia Mobile Flight Checkout
-  description: Checkout a previously created flight trip, requiring payment fields,
-    the trip id, and the passenger fields
+- name: Expedia Create a trip for partner
+  description: Creates a flight trip, passing a product key and all required fields.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
   baseURL: https://apim.expedia.com/x/
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-flight-checkout-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-flight-trip-v2-create-post.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-flight-checkout-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-flight-trip-v2-create-post-postman.md
 x-common:
 - type: x-base
   url: http://api.ean.com
