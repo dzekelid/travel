@@ -33,17 +33,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-hotel-search-v3-get.md
-- name: Expedia Search
-  description: Mobile API Flights
+- name: Expedia Create A Trip
+  description: Mobile API Flights Create Trip Operation
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
   baseURL: https://apim.expedia.com/x/
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-flight-search-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-flight-trip-create-post.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-flight-search-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-flight-trip-create-post-postman.md
 x-common:
 - type: x-base
   url: http://api.ean.com
