@@ -44,17 +44,17 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-users-userid-trips-get.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-users-userid-trips-get-postman.md
-- name: Expedia Associate User To Trip
-  description: Mobile API User Associate To Trip
+- name: Expedia Search
+  description: Mobile API Cars
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
   baseURL: https://apim.expedia.com/x/
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-user-associateusertotrip-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-cars-search-airport-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-user-associateusertotrip-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-cars-search-airport-get-postman.md
 x-common:
 - type: x-base
   url: http://api.ean.com
