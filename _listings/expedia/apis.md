@@ -33,7 +33,32 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-hotel-search-v3-get.md
+- name: Expedia Search
+  description: Mobile API Flights
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
+  humanURL: http://developer.ean.com/
+  baseURL: https://apim.expedia.com/x/
+  tags: Travel
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-flight-search-get.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-flight-search-get-postman.md
 x-common:
+- type: x-base
+  url: http://api.ean.com
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/expedia
+- type: x-documentation
+  url: https://www.expedia.com/static/mobile/swaggerui/
+- type: x-github
+  url: https://github.com/Expedia
+- type: x-swagger--original
+  url: https://www.expedia.com/static/mobile/swaggerui/swagger.json
+- type: x-twitter
+  url: https://twitter.com/ExpediaEAN
+- type: x-website
+  url: http://developer.ean.com/
 - type: x-base
   url: http://api.ean.com
 - type: x-crunchbase
