@@ -33,18 +33,18 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-hotel-search-v3-get.md
-- name: Expedia Get Required Checkout Fields
-  description: Service that returns the fields that are required or optional for a
-    given point of sale.
+- name: Expedia Cancel Enquiry
+  description: Cancel Enquiry for hotel, pass in itinerary id, email address of trip
+    owner.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
   baseURL: https://apim.expedia.com/x/
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-hotel-trip-checkoutfields-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-hotel-trip-cancelenquiry-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-hotel-trip-checkoutfields-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-hotel-trip-cancelenquiry-get-postman.md
 x-common:
 - type: x-base
   url: http://api.ean.com
