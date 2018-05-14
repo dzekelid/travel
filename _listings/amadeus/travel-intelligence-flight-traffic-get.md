@@ -1,11 +1,17 @@
 ---
 swagger: "2.0"
 info:
-  title: Amadeus
-  description: Amadeus API is a toolkit designed for travel agencies who want to develop
-    their own travel products rather than using off-the-shelf solutions. With this
-    tool, you can build your very own customised applications that link in a stable
-    and secure dialogue with our Global Distribution System (GDS).
+  title: Amadeus Get Travel Intelligence Flight Traffic
+  description: "The Flight Traffic API lets you find the origin and destination traffic
+    summary between two journey points over a specified period.\nThe search returns
+    number of flights & travelers for each origin and destination, ordered by popularity,
+    for each month specified within the search period. This search can help you answer
+    questions like \"Where are people from Los Angeles traveling to between January
+    and April of 2015?\" or \"Which is the most popular month for New Yorkers to travel
+    last year?\". \nThis search is based on Amadeus' Travel Intelligence Engine, a
+    high performance scalable cloud-based platform, born in the age of Big Data and
+    purposely built for the industry bringing total flexibility and speed to business
+    intelligence for travel. Please see amadeus.com/travelintelligence for more information."
   contact:
     name: Amadeus Innovation and Research
     url: https://sandbox.amadeus.com
