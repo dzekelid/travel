@@ -1,9 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: Expedia
-  description: 'Expedia Mobile API Documentation. &lt;br&gt;&lt;font color=&quot;blue&quot;&gt;
-    (Note: In case of authorization exception, just &lt;a href=&quot;/static/mobile/swaggerui/#!/User/signin-user&quot;&gt;Sign-In&lt;/a&gt;)&lt;/font&gt;'
+  title: Expedia Mobile Flight Checkout
+  description: Checkout a previously created flight trip, requiring payment fields,
+    the trip id, and the passenger fields
   version: 0.0.1
 host: apim.expedia.com
 basePath: x/
