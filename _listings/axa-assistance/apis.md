@@ -15,17 +15,17 @@ modified: "2018-05-13"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/axa-assistance/apis.md
 specificationVersion: "0.14"
 apis:
-- name: AXA Assistance Create new individual travel policy for sales
-  description: Create new individual travel policy for sales
+- name: AXA Assistance Create new individual travel quote for sales
+  description: Create new individual travel quote for sales
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
   baseURL: https://sandbox.api.axa-assistance.com//
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/axa-assistance/sales-v1-individual-travel-policies-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/axa-assistance/sales-v1-individual-travel-quotes-post.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/axa-assistance/sales-v1-individual-travel-policies-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/axa-assistance/sales-v1-individual-travel-quotes-post-postman.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
