@@ -1,11 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: Amadeus
-  description: Amadeus API is a toolkit designed for travel agencies who want to develop
-    their own travel products rather than using off-the-shelf solutions. With this
-    tool, you can build your very own customised applications that link in a stable
-    and secure dialogue with our Global Distribution System (GDS).
+  title: Amadeus Get Travel Intelligence Top Destinations
+  description: |-
+    The Top Flight Destinations API lets you find the most popular flight destinations from an origin during a period. This can help you answer questions like "Where are most people from Paris going to during the month of September?" The API is based on estimated flight traffic summary data from two journey points over a specific period. It returns up to 50 results, ordered by popularity, showing number of travelers as well as number of flights.
+
+    This estimated search is based on Amadeus' Travel Intelligence Engine, a high performance scalable cloud-based platform, born in the age of Big Data and purposely built for the industry bringing total flexibility and speed to business intelligence for travel. Please see amadeus.com/travelintelligence for more information.
   contact:
     name: Amadeus Innovation and Research
     url: https://sandbox.amadeus.com
