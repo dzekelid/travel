@@ -1,9 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: Expedia
-  description: 'Expedia Mobile API Documentation. &lt;br&gt;&lt;font color=&quot;blue&quot;&gt;
-    (Note: In case of authorization exception, just &lt;a href=&quot;/static/mobile/swaggerui/#!/User/signin-user&quot;&gt;Sign-In&lt;/a&gt;)&lt;/font&gt;'
+  title: Expedia Points Conversion
+  description: |-
+    Converts from a given currency amount to the equivalent in rewards points.
+    [Note: Works only if the User is signed-in and is the owner of the trip.]
   version: 0.0.1
 host: apim.expedia.com
 basePath: x/
