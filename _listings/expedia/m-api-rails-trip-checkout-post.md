@@ -1,9 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: Expedia
-  description: 'Expedia Mobile API Documentation. &lt;br&gt;&lt;font color=&quot;blue&quot;&gt;
-    (Note: In case of authorization exception, just &lt;a href=&quot;/static/mobile/swaggerui/#!/User/signin-user&quot;&gt;Sign-In&lt;/a&gt;)&lt;/font&gt;'
+  title: Expedia Rails Checkout With JSON Request Body
+  description: Mobile API Rails Checkout
   version: 0.0.1
 host: apim.expedia.com
 basePath: x/
