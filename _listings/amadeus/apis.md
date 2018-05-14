@@ -28,26 +28,20 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/amadeus/travel-record-record-locator-get.md
-- name: Amadeus Get Travel Intelligence Flight Traffic
-  description: "The Flight Traffic API lets you find the origin and destination traffic
-    summary between two journey points over a specified period.\nThe search returns
-    number of flights & travelers for each origin and destination, ordered by popularity,
-    for each month specified within the search period. This search can help you answer
-    questions like \"Where are people from Los Angeles traveling to between January
-    and April of 2015?\" or \"Which is the most popular month for New Yorkers to travel
-    last year?\". \nThis search is based on Amadeus' Travel Intelligence Engine, a
-    high performance scalable cloud-based platform, born in the age of Big Data and
-    purposely built for the industry bringing total flexibility and speed to business
-    intelligence for travel. Please see amadeus.com/travelintelligence for more information."
+- name: Amadeus Get Travel Intelligence Top Destinations
+  description: |-
+    The Top Flight Destinations API lets you find the most popular flight destinations from an origin during a period. This can help you answer questions like "Where are most people from Paris going to during the month of September?" The API is based on estimated flight traffic summary data from two journey points over a specific period. It returns up to 50 results, ordered by popularity, showing number of travelers as well as number of flights.
+
+    This estimated search is based on Amadeus' Travel Intelligence Engine, a high performance scalable cloud-based platform, born in the age of Big Data and purposely built for the industry bringing total flexibility and speed to business intelligence for travel. Please see amadeus.com/travelintelligence for more information.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28139-sandbox-amadeus-com.jpg
   humanURL: https://amadeus.com
   baseURL: https://api.sandbox.amadeus.com//v1.2
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/amadeus/travel-intelligence-flight-traffic-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/amadeus/travel-intelligence-top-destinations-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/amadeus/travel-intelligence-flight-traffic-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/amadeus/travel-intelligence-top-destinations-get-postman.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/amadeus
