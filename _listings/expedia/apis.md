@@ -44,17 +44,15 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-users-userid-trips-get.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-users-userid-trips-get-postman.md
-- name: Expedia Infosite/Details
-  description: Lx Details Search
+- name: Expedia Create A Trip
+  description: Mobile API Lx Create Trip
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
   baseURL: https://apim.expedia.com/x/
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/lx-api-activity-get.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/lx-api-activity-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-lx-trip-create-post.md
 x-common:
 - type: x-base
   url: http://api.ean.com
