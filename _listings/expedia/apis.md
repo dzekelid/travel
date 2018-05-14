@@ -44,15 +44,17 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-users-userid-trips-get.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-users-userid-trips-get-postman.md
-- name: Expedia Rails Checkout With JSON Request Body
-  description: Mobile API Rails Checkout
+- name: Expedia User Sign-In
+  description: Mobile API User Sign-In
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
   baseURL: https://apim.expedia.com/x/
   tags: Travel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/m-api-rails-trip-checkout-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-user-sign-in-post.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/api-user-sign-in-post-postman.md
 x-common:
 - type: x-base
   url: http://api.ean.com
