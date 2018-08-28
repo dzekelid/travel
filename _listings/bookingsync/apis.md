@@ -1,27 +1,15 @@
 ---
 name: BookingSync
-description: BookingSync offers a vacation rental booking management system centered
-  around simplicity and ease of use. Its synchronization functionality allows renters
-  to manage a centralized calendar that will update portals and websites. A developer
-  API brings flexibility to this web-based software, allowing extra features and services
-  to be built on top of it.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/712_logo.png
+x-slug: bookingsync
+description: Vacation rental property management software. Save Time & Book More with
+  our Reservation System, Channel Manager and Website Builder. Request a Demo!
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/712-bookingsync.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Vacation Rentals
-- Vacation
-- Travel
-- Travel
-- Target
-- Stack Network
-- Reservations
-- Rentals
-- Rental
-- Booking
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/travel/master/_listings/bookingsync/apis.yaml
+x-alexaRank: "165601"
+tags: Travel
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/bookingsync/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -33,14 +21,16 @@ x-common:
   url: http://blog.bookingsync.com/en/news/feed
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/bookingsync
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bookingsync
 - type: x-developer
   url: http://www.bookingsync.com/documentation/api
+- type: x-email
+  url: support@bookingsync.com
 - type: x-github
   url: https://github.com/BookingSync
 - type: x-twitter
   url: https://twitter.com/bookingsync
-- type: x-website
-  url: http://www.bookingsync.com
 include: []
 maintainers:
 - FN: Kin Lane

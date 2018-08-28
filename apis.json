@@ -1,0 +1,204 @@
+{
+	"name": "Streadata.io API Gallery - Travel",
+	"description": "This is a repository of travel APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/travel.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://travel.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Expedia",
+			"x-api-slug": "expedia",
+			"description": "Expedia Affiliate Network is the B2B partnership brand of Expedia, Inc. Our technology powers the hotel offering of thousands of partners around the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/195-expedia.jpg",
+			"humanURL": "http://developer.ean.com/",
+			"baseURL": "https://apim.expedia.com/x/",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TripIt",
+			"x-api-slug": "tripit",
+			"description": "TripIt organizes your travel plans in one place. Finds alternative flights. Sends real-time alerts. Snags the best seat. We have something for every traveler.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/505-tripit.jpg",
+			"humanURL": "http://www.tripit.com",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/tripit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BookingSync",
+			"x-api-slug": "bookingsync",
+			"description": "Vacation rental property management software. Save Time & Book More with our Reservation System, Channel Manager and Website Builder. Request a Demo!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/712-bookingsync.jpg",
+			"humanURL": "https://www.bookingsync.com/",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/bookingsync/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Roomorama",
+			"x-api-slug": "roomorama",
+			"description": "Stay in style. Accommodation and vacation rentals on demand.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/915-roomorama.jpg",
+			"humanURL": "https://roomorama.com",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/roomorama/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "WorldMate",
+			"x-api-slug": "worldmate",
+			"description": "Join over 10 million travelers who rely on WorldMate to plan, book, and manage every aspect of their trips.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1221-worldmate.jpg",
+			"humanURL": "https://worldmate.com",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/worldmate/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FlightStats.com",
+			"x-api-slug": "flightstats-com",
+			"description": "Track real-time flight status, departures and arrivals, airport delays, and airport information using FlightStats Global Flight Tracker.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2152-flightstats-com.jpg",
+			"humanURL": "https://flightstats.com",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/flightstats-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SITA Lab",
+			"x-api-slug": "sita-lab",
+			"description": "",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "https://www.developer.aero/",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/sita-lab/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Likibu",
+			"x-api-slug": "likibu",
+			"description": "Likibu aggregates apartment for rent, house for rent, and villa for rent of all major web 2.0 apartment rental sites. It gives you the unique opportunity to browse and compare all available apartments, houses, or villas rentals. Would you like an apartment for rent in Barcelona to walk down the Ramblas during a week-end, or would you prefer to stay in a cosy two bedroom apartment for rent in Paris to go to the Louvre, the Eiffel Tower or The Notre Dame Cathedral ? Likibu is the best way to start your travel research: choose your holiday&rsquo;s destination, select the date of your trip and watch out the entire offer of every accommodation websites. This way, we are offering the deepest and the most exhaustive global network of accommodations offered by locals, putting forward the entire offer of every accommodations websites.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/likibu-logo.png",
+			"humanURL": "http://www.likibu.com/",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/likibu/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Amadeus",
+			"x-api-slug": "amadeus",
+			"description": "Amadeus travel technology helps businesses connect to the global travel ecosystem, manage operations more effectively and serve travellers better than ever",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28139-sandbox-amadeus-com.jpg",
+			"humanURL": "https://amadeus.com",
+			"baseURL": "https://api.sandbox.amadeus.com//v1.2",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/amadeus/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GIG & CROWD",
+			"x-api-slug": "gig--crowd",
+			"description": "A unique system of the order and booking of artists: negotiations, coordination of conditions, convenient reminders of fee payment terms and rider preparation.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gigandcrowd.png",
+			"humanURL": "https://gigandcrowd.com",
+			"baseURL": "https://gigandcrowd.com//",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/gig--crowd/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Travel",
+	"include": [
+		{
+			"name": "Expedia",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/apis.yaml"
+		},
+		{
+			"name": "TripIt",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/tripit/apis.yaml"
+		},
+		{
+			"name": "BookingSync",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/bookingsync/apis.yaml"
+		},
+		{
+			"name": "Roomorama",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/roomorama/apis.yaml"
+		},
+		{
+			"name": "WorldMate",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/worldmate/apis.yaml"
+		},
+		{
+			"name": "FlightStats.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/flightstats-com/apis.yaml"
+		},
+		{
+			"name": "SITA Lab",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/sita-lab/apis.yaml"
+		},
+		{
+			"name": "Likibu",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/likibu/apis.yaml"
+		},
+		{
+			"name": "Amadeus",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/amadeus/apis.yaml"
+		},
+		{
+			"name": "GIG & CROWD",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/gig--crowd/apis.yaml"
+		}
+	]
+}
