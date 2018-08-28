@@ -1,30 +1,15 @@
 ---
 name: Pearson plc
-description: As the leading education services company, Pearson is serious about evolving
-  how the world learns. We apply our deep education experience and research, invest
-  in innovative technologies, and promote collaboration throughout the education ecosystem.
-  Real change is our commitment and its results are delivered through connecting capabilities
-  to create actionable, scalable solutions that improve access, affordability, and
-  achievement.
-image: http://pbs.twimg.com/profile_images/684339467759566848/G-61J9G5_normal.png
+x-slug: pearson-plc
+description: Offering educational products and services, assessment, and professional
+  development for all stages of learning. Learn more.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/238-pearson-plc.jpg
 x-kinRank: "9"
-x-alexaRank: ""
-tags:
-- Travel
-- Stack Network
-- Recipes
-- Photo
-- Getting Started
-- Financial News API
-- Finance
-- Education
-- Dictionary
-- Content
-- Books
-- API LIfeycle
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/travel/master/_listings/pearson-plc/apis.yaml
+x-alexaRank: "2670"
+tags: Travel
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/pearson-plc/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -35,7 +20,13 @@ x-common:
 - type: x-blog-rss
   url: https://developer.pearson.com/feed/
 - type: x-crunchbase
+  url: https://crunchbase.com/organization/pearson
+- type: x-crunchbase
   url: http://www.crunchbase.com/company/pearson
+- type: x-email
+  url: scott.overland@pearson.com
+- type: x-email
+  url: dmca.agent@pearsoned.com
 - type: x-email
   url: pdninfo@pearson.com
 - type: x-events
@@ -48,6 +39,8 @@ x-common:
   url: http://www.pearsonlearningsolutions.com/pearson-learning-studio/partner-with-us.php
 - type: x-terms-of-service
   url: http://developer.pearson.com/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/pearson
 - type: x-twitter
   url: https://twitter.com/pearsonplc
 - type: x-twitter

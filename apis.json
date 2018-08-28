@@ -23,6 +23,51 @@
 			]
 		},
 		{
+			"name": "Pearson plc",
+			"x-api-slug": "pearson-plc",
+			"description": "Offering educational products and services, assessment, and professional development for all stages of learning. Learn more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/238-pearson-plc.jpg",
+			"humanURL": "https://developer.pearson.com/",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/pearson-plc/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "StrikeIron",
+			"x-api-slug": "strikeiron",
+			"description": "StrikeIron is the leader in Data-as-a-Service (DaaS), delivering data quality and communications solutions via our cloud platform IronCloud. We provide address verification, email verification, phone validation, phone append, SMS text messaging, and sales tax solutions to customers in a variety of markets. Our solutions are delivered as Web services that can be easily integrated into any application or system. Additionally, our solutions are pre-integrated into leading platforms like: Salesforce.com, Magento, Informatica, Oracle CRM On-Demand, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/372-informatica.jpg",
+			"humanURL": "http://www.informatica.com",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/strikeiron/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TourCMS Marketplace",
+			"x-api-slug": "tourcms-marketplace",
+			"description": "Web based reservation & distribution system for specialist tour operators & activity companies",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/501-tourcms-marketplace.jpg",
+			"humanURL": "http://www.tourcms.com/support/api/mp/",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/tourcms-marketplace/openapi.md"
+				}
+			]
+		},
+		{
 			"name": "TripIt",
 			"x-api-slug": "tripit",
 			"description": "TripIt organizes your travel plans in one place. Finds alternative flights. Sends real-time alerts. Snags the best seat. We have something for every traveler.",
@@ -34,6 +79,51 @@
 				{
 					"type": "x-openapi-spec",
 					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/tripit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Conferma",
+			"x-api-slug": "conferma",
+			"description": "Redefining corporate payment technology with Virtual Card Numbers. Experts in corporate travel and expense, extending VCNs into B2B payments",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/561-conferma.jpg",
+			"humanURL": "http://www.conferma.com",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/conferma/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "planyo",
+			"x-api-slug": "planyo",
+			"description": "Planyo is a flexible online reservation system / booking software for any business which needs scheduling and managing their bookings.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/637-planyo.jpg",
+			"humanURL": "http://www.planyo.com/",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/planyo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Travelport News",
+			"x-api-slug": "travelport-news",
+			"description": "Travelport Limited provides business services, as well as transaction processing solutions and data to companies operating in the travel industry worldwide. The company???????s Global Distribution Systems segment provides aggregation, search, and transaction processing services that allow travel suppliers and travel agencies to search, process, and book itinerary and pricing options across various travel suppliers. This segment also provides hosting solutions; and IT software subscription and business intelligence services to airlines. Its Gulliver???????s Travel Associates segment distributes accommodation, ground travel, sightseeing, and other destination services, including airline, car rental, hotel, and other travel reservation and fulfillment services to travel wholesalers, tour operators, and travel agencies, as well as directly to consumers. The company operates approximately 20 brands, including Galileo and Worldspan global distribution systems, and Gulliver???????s Travel Associates.Travelport Limited is headquartered in New York.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/665_logo.jpg",
+			"humanURL": "http://www.travelportuniversalapi.com/",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/travelport-news/openapi.md"
 				}
 			]
 		},
@@ -53,6 +143,66 @@
 			]
 		},
 		{
+			"name": "Team EveryTrail",
+			"x-api-slug": "team-everytrail",
+			"description": "Search 50,000 trails with detailed reviews, photos and maps curated by millions of hikers, campers, and nature lovers like you.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/778-team-everytrail.jpg",
+			"humanURL": "http://www.everytrail.com",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/team-everytrail/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Flightwise",
+			"x-api-slug": "flightwise",
+			"description": "Flight Tracking, Flight Tracker, Flight Planning, Flight Plan Filing, Pilots Logbook, Aviation Weather Services.  Useful site for Pilots, FBOs and Aviation-related companies.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/787-flightwise.jpg",
+			"humanURL": "http://flightwise.com",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/flightwise/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "I Wanna Go There",
+			"x-api-slug": "i-wanna-go-there",
+			"description": "Iwannagothere.com is a travel guide for Coolpackers. Coolpackers are travelers that love design, architecture, vintage shops, music and trendy places.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/824-i-wanna-go-there.jpg",
+			"humanURL": "http://iwannagothere.com/api/index.html",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/i-wanna-go-there/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SilverRail Tech",
+			"x-api-slug": "silverrail-tech",
+			"description": "Charts, maps & planning solutions for aviation. View services to meet operational needs & increase efficiency.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/826-silverrail-tech.jpg",
+			"humanURL": "http://ww1.jeppesen.com/main/corporate/land/journey-planning/index.jsp",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/silverrail-tech/openapi.md"
+				}
+			]
+		},
+		{
 			"name": "Roomorama",
 			"x-api-slug": "roomorama",
 			"description": "Stay in style. Accommodation and vacation rentals on demand.",
@@ -68,6 +218,81 @@
 			]
 		},
 		{
+			"name": "Budget Your Trip",
+			"x-api-slug": "budget-your-trip",
+			"description": "Estimate, plan and track your travel expenses with Budget Your Trips travel tools and widgets.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1034-budget-your-trip.jpg",
+			"humanURL": "http://www.budgetyourtrip.com/api/",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/budget-your-trip/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Domainbox",
+			"x-api-slug": "domainbox",
+			"description": "Founded in 2011, Domainbox is the complete domain reseller package. Want to become a domain registrar and resell domain names, or take control and consolidate all your domains to one central location? Start today with Domainbox!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1048-domainbox.jpg",
+			"humanURL": "http://www.domainbox.com",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/domainbox/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "InstaManager",
+			"x-api-slug": "instamanager",
+			"description": "With over 2 billion bookings globally Kigo is the trusted platform for vacation rental management companies. Designed to maximize revenue and streamline operations, Kigo allows vacation rental managers and owners to spend less time managing more proper...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1076-instamanager.jpg",
+			"humanURL": "http://www.instamanager.com/",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/instamanager/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rome2rio",
+			"x-api-slug": "rome2rio",
+			"description": "Kong is the worlds most popular open source microservice API gateway. Use Kong to secure, manage and orchestrate microservice APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1135-rome2rio.jpg",
+			"humanURL": "http://www.mashape.com/apis/rome2rio",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/rome2rio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Travelocity",
+			"x-api-slug": "travelocity",
+			"description": "Wander Wisely with the Price Match Guarantee, Free Changes & Cancellations, 24/7 Personal Assistance only with Travelocitys Customer First Guarantee. Book & Save on Packages, Hotels, Flights, Cars, Cruises & more Today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1183-travelocity.jpg",
+			"humanURL": "http://connect.travelocity.com/",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/travelocity/openapi.md"
+				}
+			]
+		},
+		{
 			"name": "WorldMate",
 			"x-api-slug": "worldmate",
 			"description": "Join over 10 million travelers who rely on WorldMate to plan, book, and manage every aspect of their trips.",
@@ -79,6 +304,66 @@
 				{
 					"type": "x-openapi-spec",
 					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/worldmate/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Vayant",
+			"x-api-slug": "vayant",
+			"description": "PROS Revenue & Profit Optimization deliver the perfect blend of simplicity and data science to improve revenue and profit performance. Get a demo today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1369-vayant.jpg",
+			"humanURL": "http://www.vayant.com/solutions/",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/vayant/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Walk Score",
+			"x-api-slug": "walk-score",
+			"description": "TidyClub is an enterprise-like cloud computing company built for your mother with a per transaction revenue model. The company is best known for making committee administration simple through combine CRM, Memberships, Tasks, Events, Payments, Finances, Meeting Minutes, SMS into one open environment. TidyClub was founded in 2009 by Australian businessman Isaak Dury and launched to the public in November of 2011. TidyClub has been a pioneer in developing an enterprise-like platform for the &#8216;common person&#8217; through its open model allowing to extend the platform to specific needs for groups.",
+			"image": "",
+			"humanURL": "http://www.walkscore.com/professional/travel-time-api.php",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/walk-score/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "University of Washington",
+			"x-api-slug": "university-of-washington",
+			"description": "The UW is a leading research university with three campuses, a world-class academic medical center and extensive continuing education programs. The students, faculty and researchers who come here are driven to turn ideas into actions. They transform ou...",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "http://www.washington.edu/",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/university-of-washington/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SwipeIdentity",
+			"x-api-slug": "swipeidentity",
+			"description": "Kumpulan berita dan informasi terbaru terkait perkembangan teknologi di Indonesia maupun luar negeri. Swift Identity selalu berusaha menampilkan artikel yang informatif.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1905-swipeidentity.jpg",
+			"humanURL": "http://developer.swiftidentity.com/documentation",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/swipeidentity/openapi.md"
 				}
 			]
 		},
@@ -113,17 +398,92 @@
 			]
 		},
 		{
-			"name": "Likibu",
-			"x-api-slug": "likibu",
-			"description": "Likibu aggregates apartment for rent, house for rent, and villa for rent of all major web 2.0 apartment rental sites. It gives you the unique opportunity to browse and compare all available apartments, houses, or villas rentals. Would you like an apartment for rent in Barcelona to walk down the Ramblas during a week-end, or would you prefer to stay in a cosy two bedroom apartment for rent in Paris to go to the Louvre, the Eiffel Tower or The Notre Dame Cathedral ? Likibu is the best way to start your travel research: choose your holiday&rsquo;s destination, select the date of your trip and watch out the entire offer of every accommodation websites. This way, we are offering the deepest and the most exhaustive global network of accommodations offered by locals, putting forward the entire offer of every accommodations websites.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/likibu-logo.png",
-			"humanURL": "http://www.likibu.com/",
+			"name": "openOV",
+			"x-api-slug": "openov",
+			"description": "openOV is a Dutch service that provides app builders with access to current travel information from GOVI, a group that provides travel information for the digital panels at transit stops in the Netherlands. openOV exposes this information to its users via APIs so that developers can integrate it into route planners and similar apps. The openOV website is provided solely in Dutch.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/openov-logo-2.png",
+			"humanURL": "http://www.openov.nl/",
 			"baseURL": "https:///",
 			"tags": "Travel",
 			"properties": [
 				{
 					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/likibu/openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/openov/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Concur",
+			"x-api-slug": "concur",
+			"description": "SAP Concur simplifies travel,  expense  and invoice management for total visibility and greater control. Start your test drive now!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2644-concur.jpg",
+			"humanURL": "https://www.concur.com",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/concur/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sabre",
+			"x-api-slug": "sabre",
+			"description": "Sabre is a global technology company. Our innovative technology is used by more than a billion people around the world to plan, book and get to their destination at a time and price that???s right for them.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9543-sabre-travel-network.jpg",
+			"humanURL": "https://developer.sabre.com/",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/sabre/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TripAdvisor",
+			"x-api-slug": "tripadvisor",
+			"description": "TripAdvisor is the worlds largest travel site, enabling travelers to plan and book the perfect trip. TripAdvisor offers advice from millions of travelers and a wide variety of travel choices and planning features with seamless links to booking tools that check hundreds of websites to find the best hotel prices. TripAdvisor branded sites make up the largest travel community in the world, reaching 350 million unique monthly visitors**, and more than 290 million reviews and opinions covering more than 5.3 million accommodations, restaurants and attractions. The sites operate in 47 countries worldwide.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tripadvisor-logo.jpg",
+			"humanURL": "https://www.tripadvisor.com/",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/tripadvisor/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google QPX Express",
+			"x-api-slug": "google-qpx-express",
+			"description": "QPX Express is suited for companies that want to provide airfare pricing and shopping service for their customers. The API returns full display and booking information with real-time availability through an easy-to-implement JSON interface. The QPX Express self-service, pay-as-you-go model offers business flexibility and new opportunities for innovation.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/qpx-express-logo.png",
+			"humanURL": "https://developers.google.com/qpx-express/",
+			"baseURL": "://www.googleapis.com//qpxExpress/v1/trips",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/google-qpx-express/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Yappes",
+			"x-api-slug": "yappes",
+			"description": "Travel API Discovery & Marketplace",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28121-yappes-com.jpg",
+			"humanURL": "https://yappes.com",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/yappes/openapi.md"
 				}
 			]
 		},
@@ -139,6 +499,126 @@
 				{
 					"type": "x-openapi-spec",
 					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/amadeus/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AXA Assistance",
+			"x-api-slug": "axa-assistance",
+			"description": "AXA Assistance is a worldwide specialist for car insurance, travel, health and home services. Trust in Axa Assistance for your insurance!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg",
+			"humanURL": "https://www.axa-assistance.com",
+			"baseURL": "https://sandbox.api.axa-assistance.com//",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/axa-assistance/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "WayBlazer",
+			"x-api-slug": "wayblazer",
+			"description": "WayBlazer uses artificial intelligence-driven software to transform online travel planning",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28273-www-wayblazer-ai.jpg",
+			"humanURL": "https://www.wayblazer.ai",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/wayblazer/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Airbnb",
+			"x-api-slug": "airbnb",
+			"description": "Unforgettable trips start with Airbnb. Find adventures nearby or in faraway places and access unique homes, experiences, and places around the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28275-www-airbnb-com.jpg",
+			"humanURL": "https://www.airbnb.com",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/airbnb/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Priceline PN",
+			"x-api-slug": "priceline-pn",
+			"description": "Sell Priceline travel products online. Priceline Partner Networks CSS Styled booking engines are custom branded with your own look and feel. Join the travel affiliate program with the highest commissions  PPN",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28288-pricelinepartnernetwork-com.jpg",
+			"humanURL": "https://pricelinepartnernetwork.com",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/priceline-pn/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Transport for London Unified",
+			"x-api-slug": "transport-for-london-unified",
+			"description": "We are the integrated transport authority responsible for delivering Mayor of London Sadiq Khans strategy and commitments on transport. We run the day-to-day operation of the Capitals public transport network and manage Londons main roads.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/transport-for-london-unified-api.png",
+			"humanURL": "https://tfl.gov.uk/",
+			"baseURL": "https://api.tfl.gov.uk//",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/transport-for-london-unified/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Transavia",
+			"x-api-slug": "transavia",
+			"description": "Want to fly affordably to more than 100 destinations in Europe? Book a flight with Transavia!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28522-airports-api-v2.jpg",
+			"humanURL": "http://transavia.com",
+			"baseURL": "https://tst.api.transavia.com//v3/routes",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/transavia/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GraphHopper",
+			"x-api-slug": "graphhopper",
+			"description": "Use our web services to add route planning, navigation and traffic aware route optimization to your application in the food delivery industry or for traveling salesmen. We help you to optimize the routes in your logistics, GIS or real estate software.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/graphhopper-logo-small-300x51.png",
+			"humanURL": "https://graphhopper.com",
+			"baseURL": "https://graphhopper.com//api/1/vrp",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/graphhopper/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "iGeolise",
+			"x-api-slug": "igeolise",
+			"description": "The TravelTime API helps users find locations by journey time rather than using &lsquo;as the crow flies&rsquo; distance. Time-based searching gives users more opportunities for personalisation and delivers a more relevant search.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28682-docs-traveltimeplatform-com.jpg",
+			"humanURL": "https://www.traveltimeplatform.com/",
+			"baseURL": "https:///",
+			"tags": "Travel",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/igeolise/openapi.md"
 				}
 			]
 		},
@@ -165,20 +645,96 @@
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/expedia/apis.yaml"
 		},
 		{
+			"name": "Pearson plc",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/pearson-plc/apis.yaml"
+		},
+		{
+			"name": "StrikeIron",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/strikeiron/apis.yaml"
+		},
+		{
+			"name": "TourCMS Marketplace",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/tourcms-marketplace/apis.yaml"
+		},
+		{
 			"name": "TripIt",
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/tripit/apis.yaml"
+		},
+		{
+			"name": "Conferma",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/conferma/apis.yaml"
+		},
+		{
+			"name": "planyo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/planyo/apis.yaml"
+		},
+		{
+			"name": "Travelport News",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/travelport-news/apis.yaml"
 		},
 		{
 			"name": "BookingSync",
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/bookingsync/apis.yaml"
 		},
 		{
+			"name": "Team EveryTrail",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/team-everytrail/apis.yaml"
+		},
+		{
+			"name": "Flightwise",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/flightwise/apis.yaml"
+		},
+		{
+			"name": "I Wanna Go There",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/i-wanna-go-there/apis.yaml"
+		},
+		{
+			"name": "SilverRail Tech",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/silverrail-tech/apis.yaml"
+		},
+		{
 			"name": "Roomorama",
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/roomorama/apis.yaml"
 		},
 		{
+			"name": "Budget Your Trip",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/budget-your-trip/apis.yaml"
+		},
+		{
+			"name": "Domainbox",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/domainbox/apis.yaml"
+		},
+		{
+			"name": "InstaManager",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/instamanager/apis.yaml"
+		},
+		{
+			"name": "Rome2rio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/rome2rio/apis.yaml"
+		},
+		{
+			"name": "Travelocity",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/travelocity/apis.yaml"
+		},
+		{
 			"name": "WorldMate",
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/worldmate/apis.yaml"
+		},
+		{
+			"name": "Vayant",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/vayant/apis.yaml"
+		},
+		{
+			"name": "Walk Score",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/walk-score/apis.yaml"
+		},
+		{
+			"name": "University of Washington",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/university-of-washington/apis.yaml"
+		},
+		{
+			"name": "SwipeIdentity",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/swipeidentity/apis.yaml"
 		},
 		{
 			"name": "FlightStats.com",
@@ -189,12 +745,64 @@
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/sita-lab/apis.yaml"
 		},
 		{
-			"name": "Likibu",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/likibu/apis.yaml"
+			"name": "openOV",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/openov/apis.yaml"
+		},
+		{
+			"name": "Concur",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/concur/apis.yaml"
+		},
+		{
+			"name": "Sabre",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/sabre/apis.yaml"
+		},
+		{
+			"name": "TripAdvisor",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/tripadvisor/apis.yaml"
+		},
+		{
+			"name": "Google QPX Express",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/google-qpx-express/apis.yaml"
+		},
+		{
+			"name": "Yappes",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/yappes/apis.yaml"
 		},
 		{
 			"name": "Amadeus",
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/amadeus/apis.yaml"
+		},
+		{
+			"name": "AXA Assistance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/axa-assistance/apis.yaml"
+		},
+		{
+			"name": "WayBlazer",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/wayblazer/apis.yaml"
+		},
+		{
+			"name": "Airbnb",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/airbnb/apis.yaml"
+		},
+		{
+			"name": "Priceline PN",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/priceline-pn/apis.yaml"
+		},
+		{
+			"name": "Transport for London Unified",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/transport-for-london-unified/apis.yaml"
+		},
+		{
+			"name": "Transavia",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/transavia/apis.yaml"
+		},
+		{
+			"name": "GraphHopper",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/graphhopper/apis.yaml"
+		},
+		{
+			"name": "iGeolise",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/travel/master/_listings/igeolise/apis.yaml"
 		},
 		{
 			"name": "GIG & CROWD",
